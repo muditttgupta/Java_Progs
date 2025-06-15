@@ -1,2 +1,2 @@
 # Java_Progs
-// All Java Programs and questions attempted.
+All Java Programs and questions attempted.
